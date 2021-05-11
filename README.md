@@ -11,7 +11,7 @@ In this case study I will be exploring which boroughs of London have seen the gr
 
 ## Tools and Editors
 * Jupyter Notebook
-* Anaconda script
+* Anaconda Prompt
 
 ## Libraries
 NumPy, Pandas, and Matplotlib
