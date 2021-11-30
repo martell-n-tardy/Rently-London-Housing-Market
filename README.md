@@ -1,3 +1,5 @@
+![]()
+
 # Rently - London Housing Market
 In this case study I will be exploring a hypothetical business case for the company Rently (https://use.rently.com/), a patented self-touring technology that automates property tours of a home or apartment. Rently is seeking to expand their customer base to the London market by 2023. In order to do this, Rently has created a proposal for a data-driven decision approach to this challenge and provided data from London Datastore: https://data.london.gov.uk/. Rently is planning to begin trial runs in select markets within London by the first quarter of 2022, so time is of the essence.
 
