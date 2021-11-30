@@ -1,5 +1,5 @@
-# London-Housing-Case-Study
-In this case study I will be exploring which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades? A borough is just a fancy word for district. You may be familiar with the five boroughs of New York… well, there are 32 boroughs within Greater London. Some of them are more desirable areas to live in, and the data hypothetically should reflect that with a greater rise in housing prices.
+# Rently - London Housing Market
+In this case study I will be exploring a hypothetical business case for the company Rently (https://use.rently.com/), a patented self-touring technology that automates property tours of a home or apartment. Rently is seeking to expand their customer base to the London market by 2023. In order to do this, Rently has created a proposal for a data-driven decision approach to this challenge and provided data from London Datastore: https://data.london.gov.uk/. Rently is planning to begin trial runs in select markets within London by the first quarter of 2022, so time is of the essence.
 
 ## Prerequisites 
 * Prework courses such as: Introduction to Python for Data Science and Intermediate Python for Data Science
