@@ -1,10 +1,11 @@
 ![](https://github.com/martell-n-tardy/London-Housing-Case-Study/blob/master/RentlyLogo.png)
 
 # Rently - London Housing Market
-In this case study I will be exploring a hypothetical business case for the company Rently (https://use.rently.com/), a patented self-touring technology that automates property tours of a home or apartment. Rently is seeking to expand their customer base to the London market by 2023. In order to do this, Rently has created a proposal for a data-driven decision approach to this challenge and provided data from London Datastore: https://data.london.gov.uk/. Rently is planning to begin trial runs in select markets within London by the first quarter of 2022, so time is of the essence.
+In this case study I will be exploring a hypothetical business case for the company Rently (https://use.rently.com/), which developed a patented self-touring technology that automates property tours of a home or apartment. Rently is seeking to expand their customer base to the London market by the end of 2023. In order to do this, Rently has created a proposal for a data-driven approach to this challenge and has provided data from London Datastore: https://data.london.gov.uk/. Rently is planning to begin trial runs of their service in five selected boroughs of London by the second quarter of 2022, so time is of the essence.
 
-## Prerequisites 
-* Prework courses such as: Introduction to Python for Data Science and Intermediate Python for Data Science
+## Example Prerequisites 
+* Introduction to Python for Data Science
+* Intermediate Python for Data Science
 * Data Types for Data Science
 * Python Data Science Toolbox
 * Pandas Foundations
@@ -12,13 +13,12 @@ In this case study I will be exploring a hypothetical business case for the comp
 * Merging DataFrames with pandas
 
 ## Tools and Editors
-* Jupyter Notebook
-* Anaconda Prompt
+* Google Colab
 
 ## Libraries
-NumPy, Pandas, and Matplotlib
+NumPy, Pandas, Matplotlib, and Seaborn
 
-## Case Study Involved
+## Case Study Involves
 * Data Ingestion and Inspection 
 * Exploratory Data Analysis (EDA) 
 * Tidying and Cleaning 
